@@ -1,0 +1,32 @@
+.container{
+    margin-top: -10%;
+    width: 100%;
+}
+.card{
+    background-color: white;
+    width: 330px;
+    height: 420px;
+    margin: 20px;
+    float: left;
+}
+.userContentTitle{
+    font-family: sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 2rem;
+}
+.contentImage{
+   margin: 10%;
+}
+.shopNowText{
+    text-align: center;
+    margin-top: -1rem;
+    cursor: pointer;
+}
+.shopNowText:hover{
+    color: darkblue;
+}
+.userDepartmentImage{
+    margin: .2rem;
+}

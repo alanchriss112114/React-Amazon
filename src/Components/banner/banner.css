@@ -1,0 +1,6 @@
+.banner{
+    background-image: url(/src/images/backgroundBanner.jpg);
+    background-size: cover;
+    height: 625px;
+    z-index: -1;
+}

@@ -1,0 +1,46 @@
+.products{
+    width: max-content;
+}
+.products-container{
+    width: 100%;
+}
+.product-image-div{
+    float: left;
+    margin-left: 20%;
+}
+.product-image{
+    max-height: 250px;
+}
+.product-content{
+
+    margin-top: 5rem;
+    margin-left: 10rem;
+}
+.product-title{
+    font-size: larger;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-left: 25rem;
+    padding-top: 3rem;
+}
+.product-price{
+    font-size: x-large;
+    font-weight: 500;
+}
+.product-currency{
+    font-size: small;
+    padding-left: 25rem;
+}
+.product-category{
+    font-size: medium;
+    color: rgb(80, 80, 80);
+    padding-left: 25rem;
+}
+.choices-text{
+    font-size: small;
+    color: rgb(80, 80, 80);
+    padding-left: 25rem;
+}
+.productLine{
+    margin-top: 5rem;
+}

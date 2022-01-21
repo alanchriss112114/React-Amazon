@@ -1,0 +1,6 @@
+.fade-bottom{
+    height: 20rem;
+    background-image: linear-gradient(180deg,transparent,rgba(230, 215, 219, 0.5),rgb(255, 255, 255));
+    margin-top: -320px;
+    z-index: -2;
+}

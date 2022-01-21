@@ -1,0 +1,60 @@
+.containerheader{
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    background-color: #131921;
+}
+.logo{
+    width: 96px;
+    margin: 1.1rem;
+    position: fixed;
+}
+.adminTextDiv{
+    float: left;
+    margin-left: 43%;
+}
+.adminText{
+    text-align: center;
+    font-size: xx-large;
+    color: gray;
+    margin-top: .3rem;
+    cursor: pointer;
+}
+.adminText:hover{
+    color: darkgray;
+}
+.productsText{
+    margin-left: 15rem;
+    margin-top: 1rem;
+    float: left;
+    cursor: pointer;
+}
+.usersText{
+    margin-left: 2rem;
+    margin-top: 1rem;
+    float: left;
+    cursor: pointer;
+}
+.ordersText{
+    margin-left: 2rem;
+    margin-top: 1rem;
+    float: left;
+    cursor: pointer;
+}
+.adminTextLink{
+    margin-left: 2rem;
+    margin-top: 1rem;
+    float: left;
+    cursor: pointer;
+}
+.panelText{
+    color: white;
+    font-size: large;
+    cursor: pointer;
+}
+.panelText:hover{
+    color: gray;
+}
+.signOutButton{
+    background-color: #f0c14b;
+}
